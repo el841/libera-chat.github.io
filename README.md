@@ -1,9 +1,7 @@
+#soft2i
 # Libera Chat's website
-
 ## Style guide
-
 ### Content
-
 - Use British English. Exceptions apply to content:
   - copied verbatim from external sources (notably the LICENSE files); or
   - that must comply with technical standards
